@@ -1,0 +1,20 @@
+{
+  "name": "save-kevin",
+  "version": "1.0.0",
+  "description": "Help kevin - he needs it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc index.ts && node index.js",
+    "start:debug": "npx tsc index.ts && node index.js --inspect"
+  },
+  "author": "Prescott",
+  "license": "MIT",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.6",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}
