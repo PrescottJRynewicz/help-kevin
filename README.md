@@ -10,3 +10,4 @@ Here is how to use this
 4. Copy all the pdfs into the `pdfs` folder
 5. run the command `npm install`
 6. run `npm start`
+7. All the created pdfs will be in the `output_pdfs` folder
